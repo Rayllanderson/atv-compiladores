@@ -1,0 +1,19 @@
+int
+soma
+for
+123
+final
+12.2
+static
+/
+kaguyaSama
+/* comentário várias linhas*/
+while
+// comentário linha única
+if
+class
+void
+.
+#
++
+-
