@@ -17,8 +17,6 @@ import java.util.UUID;
 @Controller
 public class UploadFileController {
 
-    private final String UPLOAD_DIR = "src/main/resources";
-
     private final AnalisadorLexer analisador;
 
     public UploadFileController(AnalisadorLexer analisador) {
