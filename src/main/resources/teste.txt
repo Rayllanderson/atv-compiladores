@@ -1,8 +1,7 @@
-int
-soma
+int+23soma
 for
 123
-final
+final 
 12.2
 static
 /
@@ -11,9 +10,6 @@ kaguyaSama
 while
 // comentário linha única
 if
-class
-void
-.
-#
+class void . #
 +
 -
